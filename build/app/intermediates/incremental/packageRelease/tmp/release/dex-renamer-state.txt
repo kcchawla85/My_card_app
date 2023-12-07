@@ -1,0 +1,4 @@
+#Thu Dec 07 22:28:10 CET 2023
+base.0=D\:\\UDEMY\\Angela_yu_course_flutter\\mi_card\\mi_card_flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

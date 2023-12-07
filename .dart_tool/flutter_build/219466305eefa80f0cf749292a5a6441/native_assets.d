@@ -1,0 +1,1 @@
+ D:\\UDEMY\\Angela_yu_course_flutter\\mi_card\\mi_card_flutter\\.dart_tool\\flutter_build\\219466305eefa80f0cf749292a5a6441\\native_assets.yaml: 
