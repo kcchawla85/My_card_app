@@ -12,7 +12,7 @@ Mi_card is a simple Flutter app created using Android Studio that serves as a di
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/Mi_card.git
+   git clone git@github.com:kcchawla85/My_card_app.git
    ```
 2. **Open with Android Studio:**
    - Launch Android Studio and select "Open an existing Android Studio project."
